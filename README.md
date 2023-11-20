@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Add CoreML Docs Integrations Page (#8063)
